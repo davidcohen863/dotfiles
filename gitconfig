@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cohend863@gmail.com
+	name = David Cohen
